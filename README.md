@@ -3,6 +3,7 @@ Role Name : docker_master_node
 
 Ansible role to create a aws instance with docker master and node.
 
+[![Build Status](https://travis-ci.org/hemanth22/ansible-role-docker_master_node.svg?branch=master)](https://travis-ci.org/hemanth22/ansible-role-docker_master_node)
 
 Requirements
 ------------
